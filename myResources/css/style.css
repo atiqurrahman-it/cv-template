@@ -1,0 +1,73 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+    font-family: 'Rubik', sans-serif;
+  
+}
+
+.header_left h2{
+	color: #ffffff;
+    font-weight: 600;
+    font-family: none;
+    margin: 10px 0px;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+
+
+.header_left img{
+	width: 100%;
+	height: 100%;
+	max-height: 150px;
+	max-width: 150px;
+
+}
+
+.header_left h4{
+	letter-spacing: 0.1rem;
+}
+
+.about_me{
+    margin-top: 99px;
+    padding-bottom: 10px;
+    min-height: 158px;
+    background: gray;
+    position: relative;
+    font-family: 'Poiret One', cursive;
+
+}
+
+.imgs{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -90px;
+    left: 0%;
+
+}
+
+.about_me .title{
+   padding-top: 70px; 
+   color: #0da566;
+    font-weight: 600;
+    font-family: none;
+    margin: 10px 0px;
+    letter-spacing: 0.1rem;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.personal_info .per{
+    margin-top: 10px;
+    padding: 4px 0px;
+    background: red;
+    border-radius: 20px;
+}
+
+.personal_info ul li{
+    list-style: none;
+    line-height: 40px;
+}
