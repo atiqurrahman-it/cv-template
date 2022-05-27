@@ -57,7 +57,7 @@ body{
     width: 100%;
     height: 100%;
     top: -100px;
-    left: 23%;
+    left: 20%;
 
 }
 
@@ -121,5 +121,33 @@ text-align: justify;
     background: #fff;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0,0.1);
-
 }
+
+
+.right_side h4,h5{
+    color:#242424;
+    text-transform:uppercase;
+    font-size: 14px;
+    line-height: 35px;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.right_side h4{
+    font-weight: 800;
+    letter-spacing: 0.3rem;
+}
+.right_side h5{
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    color: #0a80ff;
+}
+
+.right_side h6{
+    color: #888;
+    text-transform: capitalize;
+}
+
+
+
